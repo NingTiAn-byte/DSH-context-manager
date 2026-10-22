@@ -1,0 +1,4 @@
+- insert:
+    - id: context-manager
+      name: "@ningtian-byte/dsh-context-manager"
+      config: {}
